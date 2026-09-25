@@ -22,7 +22,7 @@ published: 2023-10-19
 ```
 ## YouTube
 
-<iframe width="100%" height="468" src="https://www.youtube.com/embed/5gIf0_xpFPI?si=N1WTorLKL0uwLsU_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="468" src="https://txmov2.a.kwimgs.com/upic/2023/08/31/20/BMjAyMzA4MzEyMDQ5NDZfMTcxODU5OTY2NV8xMTE4MzU3MDU1MTFfMl8z_b_B9717a5040ca1f13a300e5413e7e62890.mp4?clientCacheKey=3xh8p6sfyxs74ye_b.mp4&tt=b&di=65ed8104&bp=14214; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Bilibili
 
